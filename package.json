@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sergijrypjuk1991.github.io/goit-js-hw-08/src/index.html",
+  "homepage": "https://sergijrypjuk1991.github.io/goit-js-hw-08-1/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /sergijrypjuk1991/"
   },
   "repository": {
     "type": "git",
